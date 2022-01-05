@@ -3,5 +3,8 @@ display: flex;
 
 }
 .one{
-    
+    margin: 5px;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px 5px red;
+    padding: 4px;
 }
